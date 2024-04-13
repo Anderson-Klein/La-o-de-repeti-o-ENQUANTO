@@ -27,7 +27,7 @@ public class main {
         }*/
 
         while (opcao != 0) {
-            System.out.printf("Informe um valor");
+            System.out.println("Informe um valor");
             opcao = sc.nextInt();
         }
     }
